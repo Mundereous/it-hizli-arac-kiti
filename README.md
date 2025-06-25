@@ -69,3 +69,12 @@ python gui_main.py
 
 # Linux
 python3 linux_arac_kiti.py
+
+### ✅ Windows GUI Görseli
+
+![image](https://github.com/user-attachments/assets/902461f7-0ca3-4e54-a734-fa801e1e5bbd)
+
+
+### Linux GUI Görseli
+
+![image](https://github.com/user-attachments/assets/2a714620-aaa1-4b9a-b930-1bfe40dc4baf)

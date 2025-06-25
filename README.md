@@ -61,11 +61,11 @@ Proje, Python dili ile geliştirilmiştir ve platform bağımsız çalışabilir
 
 ```bash
 # Projeyi klonla
-git clone https://github.com/kullaniciadi/it-hizli-arac-kiti.git
+git clone https://github.com/Mundereous/it-hizli-arac-kiti.git
 cd it-hizli-arac-kiti
 
 # Windows
-python main_windows.py
+python gui_main.py
 
 # Linux
-python3 main_linux.py
+python3 linux_arac_kiti.py
